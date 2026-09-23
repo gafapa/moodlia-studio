@@ -63,3 +63,9 @@ npm run check
 ```
 
 The concept-boundary tests ensure that the implementation gates remain documented and that an application is not introduced accidentally before those decisions are complete.
+
+## License
+
+Copyright (C) 2026 Pablo Gallego.
+
+This project is free software released under the GNU General Public License version 3 or later. See `LICENSE`.
